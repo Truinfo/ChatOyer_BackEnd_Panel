@@ -1,0 +1,26 @@
+{
+  "name": "filter-it",
+  "version": "0.0.1",
+  "description": "A handy function to filter Strings, Arrays, TypedArrays, Maps, Sets, (any Iterables) & Objects.",
+  "license": "MIT",
+  "author": "Alrik Zachert <alrik.zachert@gmail.com>",
+  "keywords": [
+    "iterable",
+    "map",
+    "set",
+    "filter",
+    "object",
+    "array-filter",
+    "object-filter",
+    "map-filter",
+    "set-filter",
+    "string-filter"
+  ],
+  "main": "index.js",
+  "bugs": {
+    "url": "https://github.com/alrik/filter-iterable-javascript/issues"
+  },
+  "repository": {
+    "url": "https://github.com/alrik/filter-iterable-javascript"
+  }
+}
